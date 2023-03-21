@@ -1,1 +1,4 @@
 1-alta
+2- baja
+3-modificacion
+4-salir
