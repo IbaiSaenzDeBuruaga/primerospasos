@@ -1,4 +1,4 @@
-1-alta
+1-alta barça
 2- baja
 3-modificacion
 4-sali
